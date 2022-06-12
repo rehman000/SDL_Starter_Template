@@ -40,3 +40,6 @@ Rejoice and be blessed with the following message:
     SDL Works!
 
 ![Success](docs/success_message.jpg)
+
+So now this cloning this template repository can be the basis for starting new projects. 
+The legwork has all been automated. 
