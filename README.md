@@ -13,7 +13,7 @@ Clone the repository and then navigate inside the project directory:
 
 The project folder structure is as follows:
 
-![](docs/folder_structure)
+![Powershell Tree output](docs/folder_structure.jpg)
 
 Open up vscode inside the project repository directory:
     
